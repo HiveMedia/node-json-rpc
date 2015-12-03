@@ -1,5 +1,5 @@
 {
-  "name": "node-json-rpc",
+  "name": "hmp-node-json-rpc",
   "description": "Flexible client, server objects for json-rpc communications",
   "author": "HiveMedia|Koen Van Rulo (@NemoPersona)",
   
