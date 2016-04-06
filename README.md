@@ -10,7 +10,7 @@ Flexible client, server objects for json-rpc communications between node.js serv
 
 ### Info
 
-Node-json-rpc is designed to be compatible with specs defined at [jsonrpc.org](http://www.jsonrpc.org). To add flexibility we added the option to run the apps in strict mode or to turn it off. When not using strict mode allot of the bloat in the spec can be removed and more flexibility can be achieved.
+Node-json-rpc is designed to be compatible with specs defined at [jsonrpc.org](http://www.jsonrpc.org). To add flexibility we added the option to run the apps in strict mode or to turn it off. When not using strict mode a lot of the bloat in the spec can be removed and more flexibility can be achieved.
 
 To get started have a look at the minimal example down below or the more complete example in the test directory.
 
